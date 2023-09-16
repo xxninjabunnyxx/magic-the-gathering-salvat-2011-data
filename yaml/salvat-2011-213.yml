@@ -1,0 +1,105 @@
+---
+object: card
+id: 4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4
+oracle_id: 56719f6a-1a6c-4c0a-8d21-18f7d7350b68
+multiverse_ids: []
+tcgplayer_id: 258112
+name: Swamp
+printed_name: Pantano
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4
+scryfall_uri: https://scryfall.com/card/ps11/213/es/pantano?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/c/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4.jpg?1593814113
+  normal: https://cards.scryfall.io/normal/front/4/c/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4.jpg?1593814113
+  large: https://cards.scryfall.io/large/front/4/c/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4.jpg?1593814113
+  png: https://cards.scryfall.io/png/front/4/c/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4.png?1593814113
+  art_crop: https://cards.scryfall.io/art_crop/front/4/c/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4.jpg?1593814113
+  border_crop: https://cards.scryfall.io/border_crop/front/4/c/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4.jpg?1593814113
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Swamp
+oracle_text: "({T}: Add {B}.)"
+colors: []
+color_identity:
+- B
+keywords: []
+produced_mana:
+- B
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4c69b8d6-f8a2-4160-b6f3-c3e00bcf5aa4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A56719f6a-1a6c-4c0a-8d21-18f7d7350b68&unique=prints
+collector_number: '213'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: 78034c44-88d3-47ab-8cc5-2c211c5ded76
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Swamp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Swamp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Swamp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258112?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Swamp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Swamp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

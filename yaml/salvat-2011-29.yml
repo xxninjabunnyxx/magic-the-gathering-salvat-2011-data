@@ -1,0 +1,111 @@
+---
+object: card
+id: 3ffda5fa-c88c-493b-a65e-2120a6259600
+oracle_id: 283433cb-9466-4b40-8af9-30934654d43b
+multiverse_ids: []
+tcgplayer_id: 258066
+name: Cloud Sprite
+printed_name: Hada de las nubes
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/3ffda5fa-c88c-493b-a65e-2120a6259600
+scryfall_uri: https://scryfall.com/card/ps11/29/es/hada-de-las-nubes?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/f/3ffda5fa-c88c-493b-a65e-2120a6259600.jpg?1593812851
+  normal: https://cards.scryfall.io/normal/front/3/f/3ffda5fa-c88c-493b-a65e-2120a6259600.jpg?1593812851
+  large: https://cards.scryfall.io/large/front/3/f/3ffda5fa-c88c-493b-a65e-2120a6259600.jpg?1593812851
+  png: https://cards.scryfall.io/png/front/3/f/3ffda5fa-c88c-493b-a65e-2120a6259600.png?1593812851
+  art_crop: https://cards.scryfall.io/art_crop/front/3/f/3ffda5fa-c88c-493b-a65e-2120a6259600.jpg?1593812851
+  border_crop: https://cards.scryfall.io/border_crop/front/3/f/3ffda5fa-c88c-493b-a65e-2120a6259600.jpg?1593812851
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Creature — Faerie
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  Cloud Sprite can block only creatures with flying.
+power: '1'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3ffda5fa-c88c-493b-a65e-2120a6259600/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A283433cb-9466-4b40-8af9-30934654d43b&unique=prints
+collector_number: '29'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: c450f466-2cc3-44c2-acdf-831333b9533d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 15027
+penny_rank: 4718
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cloud+Sprite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cloud+Sprite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cloud+Sprite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258066?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cloud+Sprite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cloud+Sprite&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

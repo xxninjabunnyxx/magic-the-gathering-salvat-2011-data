@@ -1,0 +1,110 @@
+---
+object: card
+id: 78f26c8b-2767-430d-a7b9-1dbb61a0993e
+oracle_id: eb7c9442-7bfa-4bcf-a394-b5de187f224a
+multiverse_ids: []
+tcgplayer_id: 258166
+name: Impelled Giant
+printed_name: Gigante instigado
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/78f26c8b-2767-430d-a7b9-1dbb61a0993e
+scryfall_uri: https://scryfall.com/card/ps11/111/es/gigante-instigado?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/8/78f26c8b-2767-430d-a7b9-1dbb61a0993e.jpg?1593813401
+  normal: https://cards.scryfall.io/normal/front/7/8/78f26c8b-2767-430d-a7b9-1dbb61a0993e.jpg?1593813401
+  large: https://cards.scryfall.io/large/front/7/8/78f26c8b-2767-430d-a7b9-1dbb61a0993e.jpg?1593813401
+  png: https://cards.scryfall.io/png/front/7/8/78f26c8b-2767-430d-a7b9-1dbb61a0993e.png?1593813401
+  art_crop: https://cards.scryfall.io/art_crop/front/7/8/78f26c8b-2767-430d-a7b9-1dbb61a0993e.jpg?1593813401
+  border_crop: https://cards.scryfall.io/border_crop/front/7/8/78f26c8b-2767-430d-a7b9-1dbb61a0993e.jpg?1593813401
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Creature — Giant Warrior
+oracle_text: |-
+  Trample
+  Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/78f26c8b-2767-430d-a7b9-1dbb61a0993e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeb7c9442-7bfa-4bcf-a394-b5de187f224a&unique=prints
+collector_number: '111'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 360be5c7-5517-446b-9e00-40e908c69886
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 20661
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Impelled+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Impelled+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Impelled+Giant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258166?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Impelled+Giant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Impelled+Giant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

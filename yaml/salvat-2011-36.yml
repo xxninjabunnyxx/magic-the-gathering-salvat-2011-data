@@ -1,0 +1,108 @@
+---
+object: card
+id: 9c6e302f-bed7-4e7e-8e30-ec439af87ae7
+oracle_id: 96b87445-6362-4a17-91b2-cbf203fd03fd
+multiverse_ids: []
+tcgplayer_id: 258085
+name: Etherium Sculptor
+printed_name: Escultor de eterium
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/9c6e302f-bed7-4e7e-8e30-ec439af87ae7
+scryfall_uri: https://scryfall.com/card/ps11/36/es/escultor-de-eterium?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/c/9c6e302f-bed7-4e7e-8e30-ec439af87ae7.jpg?1593812900
+  normal: https://cards.scryfall.io/normal/front/9/c/9c6e302f-bed7-4e7e-8e30-ec439af87ae7.jpg?1593812900
+  large: https://cards.scryfall.io/large/front/9/c/9c6e302f-bed7-4e7e-8e30-ec439af87ae7.jpg?1593812900
+  png: https://cards.scryfall.io/png/front/9/c/9c6e302f-bed7-4e7e-8e30-ec439af87ae7.png?1593812900
+  art_crop: https://cards.scryfall.io/art_crop/front/9/c/9c6e302f-bed7-4e7e-8e30-ec439af87ae7.jpg?1593812900
+  border_crop: https://cards.scryfall.io/border_crop/front/9/c/9c6e302f-bed7-4e7e-8e30-ec439af87ae7.jpg?1593812900
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Artifact Creature — Vedalken Artificer
+oracle_text: Artifact spells you cast cost {1} less to cast.
+power: '1'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9c6e302f-bed7-4e7e-8e30-ec439af87ae7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96b87445-6362-4a17-91b2-cbf203fd03fd&unique=prints
+collector_number: '36'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 32e6ee33-0ab0-44d0-bb71-ed4cff4ce208
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 475
+penny_rank: 1528
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Etherium+Sculptor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Etherium+Sculptor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Etherium+Sculptor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258085?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Etherium+Sculptor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Etherium+Sculptor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

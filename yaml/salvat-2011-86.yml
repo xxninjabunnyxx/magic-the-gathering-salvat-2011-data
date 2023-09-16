@@ -1,0 +1,107 @@
+---
+object: card
+id: f6224def-cf1e-49de-be2c-b4d85dcd983f
+oracle_id: 967cf377-ae26-464d-85ac-8448b5a911f7
+multiverse_ids: []
+tcgplayer_id: 258070
+name: Underworld Dreams
+printed_name: Sueños del infierno
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/f6224def-cf1e-49de-be2c-b4d85dcd983f
+scryfall_uri: https://scryfall.com/card/ps11/86/es/sue%C3%B1os-del-infierno?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/6/f6224def-cf1e-49de-be2c-b4d85dcd983f.jpg?1593813244
+  normal: https://cards.scryfall.io/normal/front/f/6/f6224def-cf1e-49de-be2c-b4d85dcd983f.jpg?1593813244
+  large: https://cards.scryfall.io/large/front/f/6/f6224def-cf1e-49de-be2c-b4d85dcd983f.jpg?1593813244
+  png: https://cards.scryfall.io/png/front/f/6/f6224def-cf1e-49de-be2c-b4d85dcd983f.png?1593813244
+  art_crop: https://cards.scryfall.io/art_crop/front/f/6/f6224def-cf1e-49de-be2c-b4d85dcd983f.jpg?1593813244
+  border_crop: https://cards.scryfall.io/border_crop/front/f/6/f6224def-cf1e-49de-be2c-b4d85dcd983f.jpg?1593813244
+mana_cost: "{B}{B}{B}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: Whenever an opponent draws a card, Underworld Dreams deals 1 damage to
+  that player.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f6224def-cf1e-49de-be2c-b4d85dcd983f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A967cf377-ae26-464d-85ac-8448b5a911f7&unique=prints
+collector_number: '86'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 86625e8c-f3c6-432a-90fa-1c847ed7ef58
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 1363
+penny_rank: 1754
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Underworld+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Underworld+Dreams&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Underworld+Dreams
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258070?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Underworld+Dreams&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Underworld+Dreams&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

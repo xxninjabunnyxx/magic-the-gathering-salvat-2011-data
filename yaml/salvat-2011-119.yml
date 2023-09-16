@@ -1,0 +1,107 @@
+---
+object: card
+id: c6e7b1a4-e864-4a91-9248-e4d4669efdd5
+oracle_id: 03fb26b1-6d9c-455b-9b2f-a052a9222db7
+multiverse_ids: []
+tcgplayer_id: 258184
+name: Rage Reflection
+printed_name: Reflejo de furia
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/c6e7b1a4-e864-4a91-9248-e4d4669efdd5
+scryfall_uri: https://scryfall.com/card/ps11/119/es/reflejo-de-furia?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/6/c6e7b1a4-e864-4a91-9248-e4d4669efdd5.jpg?1593813450
+  normal: https://cards.scryfall.io/normal/front/c/6/c6e7b1a4-e864-4a91-9248-e4d4669efdd5.jpg?1593813450
+  large: https://cards.scryfall.io/large/front/c/6/c6e7b1a4-e864-4a91-9248-e4d4669efdd5.jpg?1593813450
+  png: https://cards.scryfall.io/png/front/c/6/c6e7b1a4-e864-4a91-9248-e4d4669efdd5.png?1593813450
+  art_crop: https://cards.scryfall.io/art_crop/front/c/6/c6e7b1a4-e864-4a91-9248-e4d4669efdd5.jpg?1593813450
+  border_crop: https://cards.scryfall.io/border_crop/front/c/6/c6e7b1a4-e864-4a91-9248-e4d4669efdd5.jpg?1593813450
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Enchantment
+oracle_text: Creatures you control have double strike.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c6e7b1a4-e864-4a91-9248-e4d4669efdd5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A03fb26b1-6d9c-455b-9b2f-a052a9222db7&unique=prints
+collector_number: '119'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen & Ron Spencer
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 581cb494-cd37-44a8-8372-fca28338a0d7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 5479
+penny_rank: 11818
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rage+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rage+Reflection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rage+Reflection
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258184?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rage+Reflection&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rage+Reflection&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

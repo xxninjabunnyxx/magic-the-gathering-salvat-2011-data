@@ -1,0 +1,114 @@
+---
+object: card
+id: 3c2a1519-86f7-4b82-810c-1c89fbdb0c07
+oracle_id: f01efb04-ad2b-46fb-852c-dfb7e523e1b7
+multiverse_ids: []
+tcgplayer_id: 257977
+name: Mirri, Cat Warrior
+printed_name: Mirri, guerrera felina
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/3c2a1519-86f7-4b82-810c-1c89fbdb0c07
+scryfall_uri: https://scryfall.com/card/ps11/148/es/mirri-guerrera-felina?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/c/3c2a1519-86f7-4b82-810c-1c89fbdb0c07.jpg?1593813631
+  normal: https://cards.scryfall.io/normal/front/3/c/3c2a1519-86f7-4b82-810c-1c89fbdb0c07.jpg?1593813631
+  large: https://cards.scryfall.io/large/front/3/c/3c2a1519-86f7-4b82-810c-1c89fbdb0c07.jpg?1593813631
+  png: https://cards.scryfall.io/png/front/3/c/3c2a1519-86f7-4b82-810c-1c89fbdb0c07.png?1593813631
+  art_crop: https://cards.scryfall.io/art_crop/front/3/c/3c2a1519-86f7-4b82-810c-1c89fbdb0c07.jpg?1593813631
+  border_crop: https://cards.scryfall.io/border_crop/front/3/c/3c2a1519-86f7-4b82-810c-1c89fbdb0c07.jpg?1593813631
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Legendary Creature — Cat Warrior
+oracle_text: First strike, forestwalk, vigilance (This creature deals combat damage
+  before creatures without first strike, it can't be blocked as long as defending
+  player controls a Forest, and attacking doesn't cause this creature to tap.)
+power: '2'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Landwalk
+- Vigilance
+- First strike
+- Forestwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3c2a1519-86f7-4b82-810c-1c89fbdb0c07/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af01efb04-ad2b-46fb-852c-dfb7e523e1b7&unique=prints
+collector_number: '148'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daren Bader
+artist_ids:
+- 7da1a585-c875-45e4-b322-5da9e8e1f651
+illustration_id: ecd76b78-d746-487f-86c4-d61451e2668f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 10462
+penny_rank: 11153
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mirri%2C+Cat+Warrior&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mirri%2C+Cat+Warrior&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mirri%2C+Cat+Warrior
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/257977?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mirri%2C+Cat+Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mirri%2C+Cat+Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,108 @@
+---
+object: card
+id: d25d7420-a4b2-4665-8fae-91c84fa64219
+oracle_id: 1198ec53-9050-417d-812f-692e1378d346
+multiverse_ids: []
+tcgplayer_id: 258069
+name: Counterbore
+printed_name: Contrataladro
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/d25d7420-a4b2-4665-8fae-91c84fa64219
+scryfall_uri: https://scryfall.com/card/ps11/30/es/contrataladro?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/2/d25d7420-a4b2-4665-8fae-91c84fa64219.jpg?1593812856
+  normal: https://cards.scryfall.io/normal/front/d/2/d25d7420-a4b2-4665-8fae-91c84fa64219.jpg?1593812856
+  large: https://cards.scryfall.io/large/front/d/2/d25d7420-a4b2-4665-8fae-91c84fa64219.jpg?1593812856
+  png: https://cards.scryfall.io/png/front/d/2/d25d7420-a4b2-4665-8fae-91c84fa64219.png?1593812856
+  art_crop: https://cards.scryfall.io/art_crop/front/d/2/d25d7420-a4b2-4665-8fae-91c84fa64219.jpg?1593812856
+  border_crop: https://cards.scryfall.io/border_crop/front/d/2/d25d7420-a4b2-4665-8fae-91c84fa64219.jpg?1593812856
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Instant
+oracle_text: Counter target spell. Search its controller's graveyard, hand, and library
+  for all cards with the same name as that spell and exile them. Then that player
+  shuffles.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d25d7420-a4b2-4665-8fae-91c84fa64219/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1198ec53-9050-417d-812f-692e1378d346&unique=prints
+collector_number: '30'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: '038bfb87-4356-4c14-95f7-a6cab6ddd4db'
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 22822
+penny_rank: 4132
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Counterbore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Counterbore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Counterbore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258069?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Counterbore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Counterbore&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

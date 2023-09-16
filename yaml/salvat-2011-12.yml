@@ -1,0 +1,109 @@
+---
+object: card
+id: 967a8cd4-2e85-45db-9441-b3c19a7b448e
+oracle_id: 633e91ea-84d4-42ca-a8eb-603db340ebe7
+multiverse_ids: []
+tcgplayer_id: 258004
+name: Knight of the Skyward Eye
+printed_name: Caballero del Ojo Celeste
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/967a8cd4-2e85-45db-9441-b3c19a7b448e
+scryfall_uri: https://scryfall.com/card/ps11/12/es/caballero-del-ojo-celeste?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/6/967a8cd4-2e85-45db-9441-b3c19a7b448e.jpg?1593812729
+  normal: https://cards.scryfall.io/normal/front/9/6/967a8cd4-2e85-45db-9441-b3c19a7b448e.jpg?1593812729
+  large: https://cards.scryfall.io/large/front/9/6/967a8cd4-2e85-45db-9441-b3c19a7b448e.jpg?1593812729
+  png: https://cards.scryfall.io/png/front/9/6/967a8cd4-2e85-45db-9441-b3c19a7b448e.png?1593812729
+  art_crop: https://cards.scryfall.io/art_crop/front/9/6/967a8cd4-2e85-45db-9441-b3c19a7b448e.jpg?1593812729
+  border_crop: https://cards.scryfall.io/border_crop/front/9/6/967a8cd4-2e85-45db-9441-b3c19a7b448e.jpg?1593812729
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Creature — Human Knight
+oracle_text: "{3}{G}: Knight of the Skyward Eye gets +3/+3 until end of turn. Activate
+  only once each turn."
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- G
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/967a8cd4-2e85-45db-9441-b3c19a7b448e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A633e91ea-84d4-42ca-a8eb-603db340ebe7&unique=prints
+collector_number: '12'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Stewart
+artist_ids:
+- 20871267-2d8a-41d5-b03a-be3d557c5734
+illustration_id: be16506c-00b9-42fb-8ec6-b5fbaff78c7c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 24717
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Knight+of+the+Skyward+Eye&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Knight+of+the+Skyward+Eye&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Knight+of+the+Skyward+Eye
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258004?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Knight+of+the+Skyward+Eye&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Knight+of+the+Skyward+Eye&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

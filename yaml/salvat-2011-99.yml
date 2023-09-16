@@ -1,0 +1,107 @@
+---
+object: card
+id: 25ee944f-7898-4597-ac45-074bd20bda2b
+oracle_id: 6dc98143-7c4c-4b75-9bbb-5226d800b1d6
+multiverse_ids: []
+tcgplayer_id: 258128
+name: Dragon Roost
+printed_name: Descanso para dragones
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/25ee944f-7898-4597-ac45-074bd20bda2b
+scryfall_uri: https://scryfall.com/card/ps11/99/es/descanso-para-dragones?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/5/25ee944f-7898-4597-ac45-074bd20bda2b.jpg?1593813330
+  normal: https://cards.scryfall.io/normal/front/2/5/25ee944f-7898-4597-ac45-074bd20bda2b.jpg?1593813330
+  large: https://cards.scryfall.io/large/front/2/5/25ee944f-7898-4597-ac45-074bd20bda2b.jpg?1593813330
+  png: https://cards.scryfall.io/png/front/2/5/25ee944f-7898-4597-ac45-074bd20bda2b.png?1593813330
+  art_crop: https://cards.scryfall.io/art_crop/front/2/5/25ee944f-7898-4597-ac45-074bd20bda2b.jpg?1593813330
+  border_crop: https://cards.scryfall.io/border_crop/front/2/5/25ee944f-7898-4597-ac45-074bd20bda2b.jpg?1593813330
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Enchantment
+oracle_text: "{5}{R}{R}: Create a 5/5 red Dragon creature token with flying. (It can't
+  be blocked except by creatures with flying or reach.)"
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/25ee944f-7898-4597-ac45-074bd20bda2b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6dc98143-7c4c-4b75-9bbb-5226d800b1d6&unique=prints
+collector_number: '99'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jim Pavelec
+artist_ids:
+- 1431bdd4-c187-40ea-847a-e1dcd835598a
+illustration_id: 12172a8d-f6db-4388-8c33-0078b9cf85c7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 16838
+penny_rank: 6524
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragon+Roost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragon+Roost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dragon+Roost
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258128?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon+Roost&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon+Roost&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

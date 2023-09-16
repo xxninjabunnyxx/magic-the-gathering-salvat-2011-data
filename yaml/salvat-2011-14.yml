@@ -1,0 +1,106 @@
+---
+object: card
+id: 83b9eefe-7b05-42f8-a1e8-91e0d12670fe
+oracle_id: 3ab3996f-aa3f-4041-8634-8e197d51f108
+multiverse_ids: []
+tcgplayer_id: 258013
+name: Mass Calcify
+printed_name: Calcificación masiva
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/83b9eefe-7b05-42f8-a1e8-91e0d12670fe
+scryfall_uri: https://scryfall.com/card/ps11/14/es/calcificaci%C3%B3n-masiva?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/3/83b9eefe-7b05-42f8-a1e8-91e0d12670fe.jpg?1593812744
+  normal: https://cards.scryfall.io/normal/front/8/3/83b9eefe-7b05-42f8-a1e8-91e0d12670fe.jpg?1593812744
+  large: https://cards.scryfall.io/large/front/8/3/83b9eefe-7b05-42f8-a1e8-91e0d12670fe.jpg?1593812744
+  png: https://cards.scryfall.io/png/front/8/3/83b9eefe-7b05-42f8-a1e8-91e0d12670fe.png?1593812744
+  art_crop: https://cards.scryfall.io/art_crop/front/8/3/83b9eefe-7b05-42f8-a1e8-91e0d12670fe.jpg?1593812744
+  border_crop: https://cards.scryfall.io/border_crop/front/8/3/83b9eefe-7b05-42f8-a1e8-91e0d12670fe.jpg?1593812744
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Sorcery
+oracle_text: Destroy all nonwhite creatures.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/83b9eefe-7b05-42f8-a1e8-91e0d12670fe/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ab3996f-aa3f-4041-8634-8e197d51f108&unique=prints
+collector_number: '14'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brandon Kitkouski
+artist_ids:
+- 0330b5e8-2cf0-4ecb-8fd7-e20a18bdeb20
+illustration_id: e7666531-b9c6-40f8-bde9-4eaaf76d4fa5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 3586
+penny_rank: 7546
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mass+Calcify&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mass+Calcify&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mass+Calcify
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258013?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mass+Calcify&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mass+Calcify&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,106 @@
+---
+object: card
+id: 424660ef-6e58-4c98-a5d1-001485c4d1cc
+oracle_id: 273b339c-964b-4a18-8eb5-ceb8abcdfd9e
+multiverse_ids: []
+tcgplayer_id: 258073
+name: Divination
+printed_name: Adivinación
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/424660ef-6e58-4c98-a5d1-001485c4d1cc
+scryfall_uri: https://scryfall.com/card/ps11/33/es/adivinaci%C3%B3n?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/2/424660ef-6e58-4c98-a5d1-001485c4d1cc.jpg?1593812875
+  normal: https://cards.scryfall.io/normal/front/4/2/424660ef-6e58-4c98-a5d1-001485c4d1cc.jpg?1593812875
+  large: https://cards.scryfall.io/large/front/4/2/424660ef-6e58-4c98-a5d1-001485c4d1cc.jpg?1593812875
+  png: https://cards.scryfall.io/png/front/4/2/424660ef-6e58-4c98-a5d1-001485c4d1cc.png?1593812875
+  art_crop: https://cards.scryfall.io/art_crop/front/4/2/424660ef-6e58-4c98-a5d1-001485c4d1cc.jpg?1593812875
+  border_crop: https://cards.scryfall.io/border_crop/front/4/2/424660ef-6e58-4c98-a5d1-001485c4d1cc.jpg?1593812875
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Draw two cards.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/424660ef-6e58-4c98-a5d1-001485c4d1cc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A273b339c-964b-4a18-8eb5-ceb8abcdfd9e&unique=prints
+collector_number: '33'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Howard Lyon
+artist_ids:
+- 6dd06426-59fe-4b9c-aad5-6da8446a5c3d
+illustration_id: 97eee9b4-3def-4d32-8d10-69a6f43bd692
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 4765
+penny_rank: 2918
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Divination&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Divination&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Divination
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258073?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Divination&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Divination&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

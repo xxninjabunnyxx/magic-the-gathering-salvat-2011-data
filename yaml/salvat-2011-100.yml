@@ -1,0 +1,111 @@
+---
+object: card
+id: e941fb05-21c4-4981-82af-29fe19480982
+oracle_id: 3c97c311-7ad5-47ec-b421-f6c3bfbda9fb
+multiverse_ids: []
+tcgplayer_id: 258129
+name: Earth Elemental
+printed_name: Elemental de tierra
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/e941fb05-21c4-4981-82af-29fe19480982
+scryfall_uri: https://scryfall.com/card/ps11/100/es/elemental-de-tierra?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/9/e941fb05-21c4-4981-82af-29fe19480982.jpg?1641374585
+  normal: https://cards.scryfall.io/normal/front/e/9/e941fb05-21c4-4981-82af-29fe19480982.jpg?1641374585
+  large: https://cards.scryfall.io/large/front/e/9/e941fb05-21c4-4981-82af-29fe19480982.jpg?1641374585
+  png: https://cards.scryfall.io/png/front/e/9/e941fb05-21c4-4981-82af-29fe19480982.png?1641374585
+  art_crop: https://cards.scryfall.io/art_crop/front/e/9/e941fb05-21c4-4981-82af-29fe19480982.jpg?1641374585
+  border_crop: https://cards.scryfall.io/border_crop/front/e/9/e941fb05-21c4-4981-82af-29fe19480982.jpg?1641374585
+mana_cost: "{3}{R}{R}"
+cmc: 5.0
+type_line: Creature — Elemental
+oracle_text: ''
+power: '4'
+toughness: '5'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e941fb05-21c4-4981-82af-29fe19480982/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c97c311-7ad5-47ec-b421-f6c3bfbda9fb&unique=prints
+collector_number: '100'
+digital: false
+rarity: uncommon
+flavor_text: Los elementales de tierra tienen la fortaleza eterna de la piedra y la
+  resistencia de las montañas. En contacto primordial con la tierra que habitan, contemplan
+  las cosas a largo plazo y desprecian la prisa impetuosa de las criaturas mortales
+  de vida efímera.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony S. Waters
+artist_ids:
+- f009de11-3c8d-4663-b996-ca0c3e997fad
+illustration_id: e4b3ca37-60e8-4910-8f2c-a3a307953e53
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 23161
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Earth+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Earth+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Earth+Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258129?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Earth+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Earth+Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

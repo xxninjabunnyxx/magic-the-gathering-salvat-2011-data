@@ -1,0 +1,106 @@
+---
+object: card
+id: 5b0e60aa-2d92-4e76-9615-84bb6cd28779
+oracle_id: 868b758c-e21c-4079-a1fc-4c89af106f4b
+multiverse_ids: []
+tcgplayer_id: 257953
+name: Howl of the Night Pack
+printed_name: Aullido de la manada nocturna
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/5b0e60aa-2d92-4e76-9615-84bb6cd28779
+scryfall_uri: https://scryfall.com/card/ps11/141/es/aullido-de-la-manada-nocturna?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/b/5b0e60aa-2d92-4e76-9615-84bb6cd28779.jpg?1593813584
+  normal: https://cards.scryfall.io/normal/front/5/b/5b0e60aa-2d92-4e76-9615-84bb6cd28779.jpg?1593813584
+  large: https://cards.scryfall.io/large/front/5/b/5b0e60aa-2d92-4e76-9615-84bb6cd28779.jpg?1593813584
+  png: https://cards.scryfall.io/png/front/5/b/5b0e60aa-2d92-4e76-9615-84bb6cd28779.png?1593813584
+  art_crop: https://cards.scryfall.io/art_crop/front/5/b/5b0e60aa-2d92-4e76-9615-84bb6cd28779.jpg?1593813584
+  border_crop: https://cards.scryfall.io/border_crop/front/5/b/5b0e60aa-2d92-4e76-9615-84bb6cd28779.jpg?1593813584
+mana_cost: "{6}{G}"
+cmc: 7.0
+type_line: Sorcery
+oracle_text: Create a 2/2 green Wolf creature token for each Forest you control.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5b0e60aa-2d92-4e76-9615-84bb6cd28779/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A868b758c-e21c-4079-a1fc-4c89af106f4b&unique=prints
+collector_number: '141'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lars Grant-West
+artist_ids:
+- 21ed6499-c4d3-4965-ab02-6c7228275bec
+illustration_id: 7dbe93dd-d17d-40c6-9b44-9879476d98c1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 6836
+penny_rank: 7787
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Howl+of+the+Night+Pack&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Howl+of+the+Night+Pack&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Howl+of+the+Night+Pack
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/257953?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Howl+of+the+Night+Pack&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Howl+of+the+Night+Pack&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

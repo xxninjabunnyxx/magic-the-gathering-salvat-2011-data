@@ -1,0 +1,109 @@
+---
+object: card
+id: 9427cfc4-6ea5-4874-b7f9-91580c86d3af
+oracle_id: 9357de36-f8be-4f49-b2c8-9fe9eaf82b07
+multiverse_ids: []
+tcgplayer_id: 257997
+name: Holy Strength
+printed_name: Fuerza sagrada
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/9427cfc4-6ea5-4874-b7f9-91580c86d3af
+scryfall_uri: https://scryfall.com/card/ps11/10/es/fuerza-sagrada?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/4/9427cfc4-6ea5-4874-b7f9-91580c86d3af.jpg?1593812714
+  normal: https://cards.scryfall.io/normal/front/9/4/9427cfc4-6ea5-4874-b7f9-91580c86d3af.jpg?1593812714
+  large: https://cards.scryfall.io/large/front/9/4/9427cfc4-6ea5-4874-b7f9-91580c86d3af.jpg?1593812714
+  png: https://cards.scryfall.io/png/front/9/4/9427cfc4-6ea5-4874-b7f9-91580c86d3af.png?1593812714
+  art_crop: https://cards.scryfall.io/art_crop/front/9/4/9427cfc4-6ea5-4874-b7f9-91580c86d3af.jpg?1593812714
+  border_crop: https://cards.scryfall.io/border_crop/front/9/4/9427cfc4-6ea5-4874-b7f9-91580c86d3af.jpg?1593812714
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature gets +1/+2.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9427cfc4-6ea5-4874-b7f9-91580c86d3af/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9357de36-f8be-4f49-b2c8-9fe9eaf82b07&unique=prints
+collector_number: '10'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: b57375d2-c431-4e82-82a6-da90f54a5f0d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 16480
+penny_rank: 7288
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Holy+Strength&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Holy+Strength&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Holy+Strength
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/257997?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Holy+Strength&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Holy+Strength&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,111 @@
+---
+object: card
+id: a6a78bf8-1cd8-406a-9ed9-fbf2360feee8
+oracle_id: 975b4e0f-1133-4ffa-a6b1-d319d248dcde
+multiverse_ids: []
+tcgplayer_id: 258136
+name: Parasitic Strix
+printed_name: Strix parasitario
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8
+scryfall_uri: https://scryfall.com/card/ps11/48/es/strix-parasitario?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8.jpg?1593812984
+  normal: https://cards.scryfall.io/normal/front/a/6/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8.jpg?1593812984
+  large: https://cards.scryfall.io/large/front/a/6/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8.jpg?1593812984
+  png: https://cards.scryfall.io/png/front/a/6/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8.png?1593812984
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8.jpg?1593812984
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8.jpg?1593812984
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Artifact Creature — Bird
+oracle_text: |-
+  Flying
+  When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a6a78bf8-1cd8-406a-9ed9-fbf2360feee8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A975b4e0f-1133-4ffa-a6b1-d319d248dcde&unique=prints
+collector_number: '48'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 010ef897-61d3-4f2e-9dfc-bc41c559028d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 19073
+penny_rank: 9606
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Parasitic+Strix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Parasitic+Strix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Parasitic+Strix
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258136?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Parasitic+Strix&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Parasitic+Strix&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

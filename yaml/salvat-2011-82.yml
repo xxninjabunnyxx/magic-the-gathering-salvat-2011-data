@@ -1,0 +1,108 @@
+---
+object: card
+id: ef8dfbf4-ea4d-49c7-a730-e03b62975455
+oracle_id: 196d6ef6-80d9-4bfd-a5ed-d9e8b00faad0
+multiverse_ids: []
+tcgplayer_id: 258056
+name: Salvage Slasher
+printed_name: Acuchillador del botín
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/ef8dfbf4-ea4d-49c7-a730-e03b62975455
+scryfall_uri: https://scryfall.com/card/ps11/82/es/acuchillador-del-bot%C3%ADn?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/f/ef8dfbf4-ea4d-49c7-a730-e03b62975455.jpg?1593813219
+  normal: https://cards.scryfall.io/normal/front/e/f/ef8dfbf4-ea4d-49c7-a730-e03b62975455.jpg?1593813219
+  large: https://cards.scryfall.io/large/front/e/f/ef8dfbf4-ea4d-49c7-a730-e03b62975455.jpg?1593813219
+  png: https://cards.scryfall.io/png/front/e/f/ef8dfbf4-ea4d-49c7-a730-e03b62975455.png?1593813219
+  art_crop: https://cards.scryfall.io/art_crop/front/e/f/ef8dfbf4-ea4d-49c7-a730-e03b62975455.jpg?1593813219
+  border_crop: https://cards.scryfall.io/border_crop/front/e/f/ef8dfbf4-ea4d-49c7-a730-e03b62975455.jpg?1593813219
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Artifact Creature — Human Rogue
+oracle_text: Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ef8dfbf4-ea4d-49c7-a730-e03b62975455/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A196d6ef6-80d9-4bfd-a5ed-d9e8b00faad0&unique=prints
+collector_number: '82'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony Francisco
+artist_ids:
+- 6ac24c4b-70e9-4286-8f4b-b40c92ab5847
+illustration_id: cb150edf-b516-434e-93f7-7b27027f9501
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 20948
+penny_rank: 9642
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Salvage+Slasher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Salvage+Slasher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Salvage+Slasher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258056?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Salvage+Slasher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Salvage+Slasher&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

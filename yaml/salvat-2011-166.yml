@@ -1,0 +1,109 @@
+---
+object: card
+id: 8930f9a8-8a86-4fa5-ad94-1459025e8785
+oracle_id: a6496440-dc0c-4d9b-bf37-f537b6f0187b
+multiverse_ids: []
+tcgplayer_id: 258015
+name: Blightning
+printed_name: Ruinámpago
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/8930f9a8-8a86-4fa5-ad94-1459025e8785
+scryfall_uri: https://scryfall.com/card/ps11/166/es/ruin%C3%A1mpago?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/9/8930f9a8-8a86-4fa5-ad94-1459025e8785.jpg?1593813741
+  normal: https://cards.scryfall.io/normal/front/8/9/8930f9a8-8a86-4fa5-ad94-1459025e8785.jpg?1593813741
+  large: https://cards.scryfall.io/large/front/8/9/8930f9a8-8a86-4fa5-ad94-1459025e8785.jpg?1593813741
+  png: https://cards.scryfall.io/png/front/8/9/8930f9a8-8a86-4fa5-ad94-1459025e8785.png?1593813741
+  art_crop: https://cards.scryfall.io/art_crop/front/8/9/8930f9a8-8a86-4fa5-ad94-1459025e8785.jpg?1593813741
+  border_crop: https://cards.scryfall.io/border_crop/front/8/9/8930f9a8-8a86-4fa5-ad94-1459025e8785.jpg?1593813741
+mana_cost: "{1}{B}{R}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Blightning deals 3 damage to target player or planeswalker. That player
+  or that planeswalker's controller discards two cards.
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8930f9a8-8a86-4fa5-ad94-1459025e8785/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6496440-dc0c-4d9b-bf37-f537b6f0187b&unique=prints
+collector_number: '166'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Thomas M. Baxa
+artist_ids:
+- ff346569-557d-4043-ae44-97c2c7cabd7d
+illustration_id: 419261f6-546c-453c-a3cc-5684a5e3cacd
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 11815
+penny_rank: 961
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blightning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258015?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blightning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blightning&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

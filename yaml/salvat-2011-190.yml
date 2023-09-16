@@ -1,0 +1,105 @@
+---
+object: card
+id: 3d911839-cb2c-4068-aba3-3441fc0c79ac
+oracle_id: d26b27db-a567-4631-b4b6-7294222fbdd1
+multiverse_ids: []
+tcgplayer_id: 258059
+name: Howling Mine
+printed_name: Mina aullante
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/3d911839-cb2c-4068-aba3-3441fc0c79ac
+scryfall_uri: https://scryfall.com/card/ps11/190/es/mina-aullante?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/d/3d911839-cb2c-4068-aba3-3441fc0c79ac.jpg?1593813915
+  normal: https://cards.scryfall.io/normal/front/3/d/3d911839-cb2c-4068-aba3-3441fc0c79ac.jpg?1593813915
+  large: https://cards.scryfall.io/large/front/3/d/3d911839-cb2c-4068-aba3-3441fc0c79ac.jpg?1593813915
+  png: https://cards.scryfall.io/png/front/3/d/3d911839-cb2c-4068-aba3-3441fc0c79ac.png?1593813915
+  art_crop: https://cards.scryfall.io/art_crop/front/3/d/3d911839-cb2c-4068-aba3-3441fc0c79ac.jpg?1593813915
+  border_crop: https://cards.scryfall.io/border_crop/front/3/d/3d911839-cb2c-4068-aba3-3441fc0c79ac.jpg?1593813915
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: At the beginning of each player's draw step, if Howling Mine is untapped,
+  that player draws an additional card.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3d911839-cb2c-4068-aba3-3441fc0c79ac/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad26b27db-a567-4631-b4b6-7294222fbdd1&unique=prints
+collector_number: '190'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ralph Horsley
+artist_ids:
+- a51444a8-eb4b-4615-a663-d1d418591ccb
+illustration_id: bba35359-ecd7-4ed3-a061-ad06176c5eba
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 750
+penny_rank: 1063
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Howling+Mine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Howling+Mine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Howling+Mine
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258059?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Howling+Mine&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Howling+Mine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

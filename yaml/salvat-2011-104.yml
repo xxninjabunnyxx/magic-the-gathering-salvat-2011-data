@@ -1,0 +1,107 @@
+---
+object: card
+id: '049f7eae-91e7-4076-b8af-be843e89114c'
+oracle_id: 68715465-6cf9-4006-87e9-31f227fe9ed3
+multiverse_ids: []
+tcgplayer_id: 258150
+name: Furnace of Rath
+printed_name: Horno de Rath
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/049f7eae-91e7-4076-b8af-be843e89114c
+scryfall_uri: https://scryfall.com/card/ps11/104/es/horno-de-rath?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/4/049f7eae-91e7-4076-b8af-be843e89114c.jpg?1593813359
+  normal: https://cards.scryfall.io/normal/front/0/4/049f7eae-91e7-4076-b8af-be843e89114c.jpg?1593813359
+  large: https://cards.scryfall.io/large/front/0/4/049f7eae-91e7-4076-b8af-be843e89114c.jpg?1593813359
+  png: https://cards.scryfall.io/png/front/0/4/049f7eae-91e7-4076-b8af-be843e89114c.png?1593813359
+  art_crop: https://cards.scryfall.io/art_crop/front/0/4/049f7eae-91e7-4076-b8af-be843e89114c.jpg?1593813359
+  border_crop: https://cards.scryfall.io/border_crop/front/0/4/049f7eae-91e7-4076-b8af-be843e89114c.jpg?1593813359
+mana_cost: "{1}{R}{R}{R}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: If a source would deal damage to a permanent or player, it deals double
+  that damage to that permanent or player instead.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/049f7eae-91e7-4076-b8af-be843e89114c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68715465-6cf9-4006-87e9-31f227fe9ed3&unique=prints
+collector_number: '104'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Matson
+artist_ids:
+- a1685587-4b55-446b-b420-c37b202ed3f1
+illustration_id: 51199750-d5aa-4867-9d37-3ef015b07101
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 2895
+penny_rank: 5443
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Furnace+of+Rath&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Furnace+of+Rath&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Furnace+of+Rath
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258150?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Furnace+of+Rath&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Furnace+of+Rath&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

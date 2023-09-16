@@ -1,0 +1,112 @@
+---
+object: card
+id: 1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5
+oracle_id: 220bfa3b-0e17-4350-a967-cfcf05b754ef
+multiverse_ids: []
+tcgplayer_id: 258048
+name: Woolly Thoctar
+printed_name: Thoctar lanudo
+lang: es
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5
+scryfall_uri: https://scryfall.com/card/ps11/182/es/thoctar-lanudo?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/0/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5.jpg?1593813849
+  normal: https://cards.scryfall.io/normal/front/1/0/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5.jpg?1593813849
+  large: https://cards.scryfall.io/large/front/1/0/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5.jpg?1593813849
+  png: https://cards.scryfall.io/png/front/1/0/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5.png?1593813849
+  art_crop: https://cards.scryfall.io/art_crop/front/1/0/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5.jpg?1593813849
+  border_crop: https://cards.scryfall.io/border_crop/front/1/0/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5.jpg?1593813849
+mana_cost: "{R}{G}{W}"
+cmc: 3.0
+type_line: Creature — Beast
+oracle_text: ''
+power: '5'
+toughness: '4'
+colors:
+- G
+- R
+- W
+color_identity:
+- G
+- R
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set: ps11
+set_name: Salvat 2011
+set_type: box
+set_uri: https://api.scryfall.com/sets/97fe7b09-5b23-4fcb-a9ae-6803c5314382
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aps11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ps11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1039fc4a-ccc7-46f1-ac48-f4e1a5e89ac5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A220bfa3b-0e17-4350-a967-cfcf05b754ef&unique=prints
+collector_number: '182'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne Reynolds
+artist_ids:
+- afc47cec-3ccc-404e-a8c6-4d83dd504271
+illustration_id: 398a8fba-0169-48a9-b58c-8166bb2d530d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- mediainsert
+edhrec_rank: 16508
+penny_rank: 5621
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Woolly+Thoctar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Woolly+Thoctar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Woolly+Thoctar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/258048?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Woolly+Thoctar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Woolly+Thoctar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
